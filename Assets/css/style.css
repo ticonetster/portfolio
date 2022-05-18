@@ -132,7 +132,7 @@ p {
     text-align: right;
 }
 
-.row{
+/* .row{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -146,7 +146,7 @@ p {
     margin-top: 8px;
     vertical-align: middle;
     height: 150px;
-}
+} */
 
 #big {
     flex: 100%;
@@ -188,3 +188,9 @@ p {
 .contact-me h2{
     text-align: right;
 }
+
+/* img{
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+} */
