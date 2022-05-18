@@ -10,4 +10,4 @@ Below is a screenshot of the working product.
 
 ![Portfolio](screenshot.PNG)
 
-Visit the live page: [My Portfolio](https://ticonetster.github.io/Portfolio/)
+Visit the live page: [Portfolio](https://ticonetster.github.io/portfolio/)
