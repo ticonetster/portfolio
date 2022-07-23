@@ -8,6 +8,6 @@ Added 4 of the most recent projects and will add the coming project as the featu
 
 Below is a screenshot of the working product.
 
-![Portfolio](screenshot.PNG)
+![image](https://user-images.githubusercontent.com/19826920/180625686-c85275d6-dd82-422c-9399-ed82c2eccfcd.png)
 
 Visit the live page: [Portfolio](https://ticonetster.github.io/portfolio/)
